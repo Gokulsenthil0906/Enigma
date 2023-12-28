@@ -1,12 +1,14 @@
 # Enigma
 
-### To start The App ###
-
-npm start
+### Unzip The File And Fllow The Below Steps ###
 
 ### To Install Node_module ###
 
 npm install
+
+### To start The App ###
+
+npm start
 
 ### To add the Firebase ###
 
